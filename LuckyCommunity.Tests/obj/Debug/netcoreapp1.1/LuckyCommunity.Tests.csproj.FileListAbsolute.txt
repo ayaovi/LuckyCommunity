@@ -1,0 +1,13 @@
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.Tests.deps.json
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.Tests.runtimeconfig.json
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.Tests.runtimeconfig.dev.json
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/obj/Debug/netcoreapp1.1/LuckyCommunity.Tests.AssemblyInfo.cs
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.Tests.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.Tests.pdb
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/bin/Debug/netcoreapp1.1/LuckyCommunity.pdb
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/obj/Debug/netcoreapp1.1/LuckyCommunity.Tests.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity.Tests/obj/Debug/netcoreapp1.1/LuckyCommunity.Tests.pdb

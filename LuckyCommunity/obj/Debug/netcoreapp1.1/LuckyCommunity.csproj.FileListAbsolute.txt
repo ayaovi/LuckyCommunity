@@ -1,0 +1,8 @@
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/bin/Debug/netcoreapp1.1/LuckyCommunity.deps.json
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/bin/Debug/netcoreapp1.1/LuckyCommunity.runtimeconfig.json
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/bin/Debug/netcoreapp1.1/LuckyCommunity.runtimeconfig.dev.json
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/bin/Debug/netcoreapp1.1/LuckyCommunity.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/bin/Debug/netcoreapp1.1/LuckyCommunity.pdb
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/obj/Debug/netcoreapp1.1/LuckyCommunity.AssemblyInfo.cs
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/obj/Debug/netcoreapp1.1/LuckyCommunity.dll
+/home/ayaovi/workspace/CSharp/LuckyCommunity/LuckyCommunity/obj/Debug/netcoreapp1.1/LuckyCommunity.pdb
